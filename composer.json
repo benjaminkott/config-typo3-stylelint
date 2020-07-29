@@ -1,0 +1,14 @@
+{
+    "name": "bk2k/config-typo3-stylelint",
+    "type": "project-configuration",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Kott",
+            "email": "benjamin.kott@outlook.com"
+        }
+    ],
+    "require": {
+        "bk2k/configuration-installer": "^0.1.0"
+    }
+}

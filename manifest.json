@@ -1,0 +1,8 @@
+{
+    "files": {
+        ".stylelintrc": ".stylelintrc"
+    },
+    "gitignore": [
+        "/.stylelintrc"
+    ]
+}
